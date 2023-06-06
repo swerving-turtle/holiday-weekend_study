@@ -1,1 +1,1 @@
-# holiday&weekend_study
+# holiday-weekend_study
